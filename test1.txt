@@ -3,3 +3,5 @@ This is a first line in GIT
 This is a Second line in GIT
 
 This is a third line in GIT
+
+This is a fourth line in GIT
