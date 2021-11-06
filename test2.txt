@@ -3,3 +3,6 @@ This is a first line in second file
 This is a second line in second file
 
 This is a third line in second file
+
+This is a foruth line in second file
+

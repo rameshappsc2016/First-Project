@@ -7,3 +7,5 @@ This is a third line in GIT
 This is a fourth line in GIT
 
 This is a fifth line
+
+This is a sixth line
